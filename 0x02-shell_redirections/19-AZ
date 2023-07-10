@@ -1,0 +1,2 @@
+#!/bin/bash
+rt 'A' 'z' | tr 'c' 'e'
